@@ -25,7 +25,7 @@ All the files related to the FLM_BANK project can be found in the GitHub reposit
 
 To run the FLM_BANK Java application:
 
-1. Clone the repository or download the source code from the [GitHub repository](link to the repository).
+1. Clone the repository or download the source code from the [FLM_BANK]((https://github.com/Chetanperisetti/FLM-Bank/tree/main)).
 2. Open the project in your preferred Java development environment.
 3. Compile and run the main class (`Main.java` or similar).
 
